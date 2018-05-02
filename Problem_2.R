@@ -9,6 +9,8 @@ library(ggplot2)
 
 # Enter your student ID in set.seed() so that your results are reproducible
 
+set.seed()
+
 # use the rnorm function to generate values from the standard normal distribution
 # you can compute e^x with the exp function, e.g. e^2 = exp(2).
 
@@ -27,3 +29,6 @@ library(ggplot2)
 ## g)
 
 ## h)
+
+## i)
+
